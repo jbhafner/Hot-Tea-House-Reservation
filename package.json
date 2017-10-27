@@ -1,0 +1,20 @@
+{
+  "name": "hotteahouse",
+  "version": "1.0.0",
+  "description": "Tea House Reservation App",
+  "main": "teaServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hot",
+    "tea",
+    "reservations"
+  ],
+  "author": "Tim, Brian and Lorenzo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
